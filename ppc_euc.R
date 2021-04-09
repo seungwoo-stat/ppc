@@ -73,8 +73,8 @@ ppc.iter.e <- function(data, w, a, v, sigma, sigma.max = Inf, lambda){
   R <- band.R(k)
   tryCatch(
     {
-      U1 <- lu(R + 2*lambda*t(Q) %*% (Q/d1))
-      U2 <- lu(R + 2*lambda*t(Q) %*% (Q/d2))
+      U1 <- pracma::lu(R + 2*lambda*t(Q) %*% (Q/d1))
+      U2 <- pracma::lu(R + 2*lambda*t(Q) %*% (Q/d2))
       gamma1 <- backsolve(U1$U, forwardsolve(U1$L, QtDinvY1))
       gamma2 <- backsolve(U2$U, forwardsolve(U2$L,QtDinvY2))
       fit[,1] <- (y1.bar - 2*lambda*Q%*%gamma1)/d1
@@ -87,7 +87,7 @@ ppc.iter.e <- function(data, w, a, v, sigma, sigma.max = Inf, lambda){
       message(cond)
     }
   )
-
+  
   return(fit)
 }
 
