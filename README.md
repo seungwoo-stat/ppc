@@ -35,7 +35,7 @@ Additionaly, following files are for simulation & comparison with other methods.
 
 
 
-We also provide code that was used to extract election data from the excel files provided by [National Election Commission of South Korea](http://info.nec.go.kr). Excel files are in [`./sphere2-3/data`](./sphere2-3/data).
+We also provide code that was used to extract election data from the excel files provided by [National Election Commission of South Korea](http://info.nec.go.kr). Excel files are in [`./sphere-2-3/data`](./sphere-2-3/data).
 
 - `sphere-2-3/real_data.R` 
   - extracts data from excel files in `sphere-2-3/data` and save as `sphere-2-3/19pe.csv`
