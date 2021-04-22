@@ -1,6 +1,8 @@
 # Probabilistic Principal Curves on Riemannian Manifolds
 
-This repo provides functions implementing Probabilistic Principal Curves on Riemannian Manifolds (abbreviated as PPC) using statistical software R. <img style="float: right;" src="sphere2-50.gif" alt="drawing" width="300"/>
+This repo provides functions implementing Probabilistic Principal Curves on Riemannian Manifolds (abbreviated as PPC) using statistical software R. 
+
+<img src="sphere2-50.gif" alt="drawing" width="300"/>
 
 
 
