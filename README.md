@@ -52,4 +52,4 @@ We also provide code that was used to extract election data from the excel files
 
 ## Reference
 
-- S. Kang, and H.-S. Oh. "Probabilistic Principal Curves on Riemannian Manifolds". arXiv preprint. Apr. 2021. (Link to be updated)
+- Seungwoo Kang and Hee-Seok Oh. "Probabilistic Principal Curves on Riemannian Manifolds". *IEEE Transactions on Pattern Analysis and Machine Intelligence*. Accepted for publication.
