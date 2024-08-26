@@ -52,4 +52,4 @@ We also provide code that was used to extract election data from the excel files
 
 ## Reference
 
-- Seungwoo Kang and Hee-Seok Oh. (2024) [Probabilistic Principal Curves on Riemannian Manifolds](https://doi.org/10.1109/TPAMI.2024.3357801). *IEEE Transactions on Pattern Analysis and Machine Intelligence*. Accepted for publication.
+- Seungwoo Kang and Hee-Seok Oh. (2024) [Probabilistic Principal Curves on Riemannian Manifolds](https://doi.org/10.1109/TPAMI.2024.3357801). *IEEE Transactions on Pattern Analysis and Machine Intelligence* **46**(7), 4843-4849.
